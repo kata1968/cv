@@ -1,0 +1,69 @@
+.container {
+border-style: groove;
+border-width: 5px;
+border-color: grey;
+
+}
+
+.infophoto 
+h4
+{ color: blue;
+  font-style: italic;
+  font-family: Tahoma;
+}
+
+.infophoto 
+h3
+{ color: red;
+  font-style: italic; 
+  font-family: Tahoma;
+}
+
+.infophoto
+
+
+
+p{
+  color: white;  
+  background-color: pink;
+  font-family: Tahoma;
+ }
+ 
+.poste
+h1
+{color: red;
+  font-style: italic; 
+  font-family: Tahoma;
+ }
+ .poste
+h2
+{
+  color: blue;
+  font-style: italic; 
+  font-family: Tahoma;
+  border-style: solid;
+  border-style: solid;
+  border-width: 5px;
+  border-color: grey;
+  }
+ h5
+ {color: grey;  
+  font-family: Tahoma;
+  }
+ 
+h4
+ {color: grey;  
+  font-family: Tahoma;
+  }  
+  
+  
+  
+
+
+
+
+
+  
+
+  
+
